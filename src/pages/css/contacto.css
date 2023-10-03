@@ -4,7 +4,8 @@
     width: 100%;
     height: 100vh;
     overflow: scroll;
-    background-image: url('https://images.pexels.com/photos/15608123/pexels-photo-15608123/free-photo-of-estrellas-stars.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-image: url('https://images.pexels.com/photos/18129551/pexels-photo-18129551/free-photo-of-blanco-y-negro-paisaje-nubes-bosque.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
     background-size: cover;
     background-attachment: fixed; /* La imagen de fondo permanece fija */
+    color: aliceblue;
 }

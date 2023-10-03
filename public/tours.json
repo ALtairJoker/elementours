@@ -1,0 +1,135 @@
+{
+    "actividades": [
+      {
+        "id": 1,
+        "nombre": "Rafting cajon del maipo",
+        "precio": [
+          {
+            "min_personas": 4,
+            "precio_por_persona": 190000
+          },
+          {
+            "min_personas": 1,
+            "precio_por_persona": 60000
+          }
+        ],
+        "img": "https://natexplora.cl/cdn/shop/products/SKU-1-NATEXPLORA-Rafting.jpg?v=1673913771",
+        "duracion": "6 horas aproximadamente",
+        "incluye": [
+          "traslado actividad",
+          "snack",
+          "rafting (1 hora de bajada en río)",
+          "seguro de accidentes de empresa asociada",
+          "equipamiento completo para la actividad",
+          "baños, camarines"
+        ],
+        "debe_llevar": [
+          "traje de baño o ropa interior para ocupar bajo el traje de neopreno",
+          "zapatillas para mojar",
+          "toalla",
+          "sandalias",
+          "primera capa (opcional)",
+          "lentes (opcional)",
+          "protector solar"
+        ],
+        "edad_minima": "8 años o 1.20 de estatura",
+        "peso_maximo": "130 kg"
+      },
+      {
+        "id": 2,
+        "nombre": "Tour astronomico",
+        "precio": [
+          {
+            "min_personas": 1,
+            "precio_por_persona": 70000
+          },
+          {
+            "min_personas": 6,
+            "precio_por_persona": 60000
+          }
+        ],
+        "img": "https://natexplora.cl/cdn/shop/products/SKU-3-NATEXPLORA-Tour-Astronomico.jpg?v=1673914498",
+        "duracion": "7 horas aproximadamente",
+        "incluye": [
+          "Traslado",
+          "Transporte exclusivo para la cordillera",
+          "Guías profesionales",
+          "1 hora de charla astronómica",
+          "Entrada a la reserva natural",
+          "snack de hidratación",
+          "potentes telescopios profesionales",
+          "capacitación para tomar fotografías con tu smartphone"
+        ],
+        "debe_llevar": [
+          "ropa de abrigo y zapatillas deportivas (trekking 45 min aprox)",
+          "linterna frontal o celular con linterna",
+          "termo personal",
+          "gorro y guantes para el frío"
+        ],
+        "edad_minima": "12 años"
+      },
+      {
+        "id": 3,
+        "nombre": "Paracaidismo",
+        "precio": [
+          {
+            "min_personas": 1,
+            "precio_por_persona": 300000
+          }
+        ],
+        "img": "https://skydivesantiago.cl/wp-content/uploads/2023/08/salto-tandem-skydivesantiago-1.jpg",
+        "duracion": "6 a 7 horas aproximadamente",
+        "incluye": [
+          "traslado",
+          "salto con instructor (sistema de arnés doble)",
+          "salto desde 4.000 metros de altura",
+          "snack para el camino",
+          "vista incomparable del océano pacífico y la cordillera de los Andes al mismo tiempo"
+        ],
+        "debe_llevar": [
+          "Buso o shorts, zapatillas, polera, ropa sport",
+          "Evitar zapatos con tacones, zapatillas con cierres metálicos, camisas, poleras tipo polo y prendas que te limiten con la movilidad (ej. jeans)"
+        ],
+        "peso_maximo": "105 kg",
+        "edad_minima": "18 años"
+      },
+      {
+        "id": 4,
+        "nombre": "Tour canabico",
+        "precio": [
+          {
+            "min_personas": 1,
+            "precio_por_persona": 25000
+          },
+          {
+            "min_personas": 2,
+            "precio_por_persona": 0
+          }
+        ],
+        "img": "https://images.pexels.com/photos/14937750/pexels-photo-14937750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "duracion": "4 a 5 horas aproximadamente",
+        "incluye": [
+          "Traslado",
+          "Snack",
+          "Chocolate canabico",
+          "Degustación de CBD",
+          "1 caño en común",
+          "Teleférico ($6.000) opcional"
+        ],
+        "debe_llevar": [
+          "Gorro",
+          "Bloqueador",
+          "Agua",
+          "Ropa cómoda"
+        ],
+        "edad_minima": "+18 años"
+      },
+      {
+        "id": 5,
+        "nombre": "Salto Benjee",
+        "descripcion": "Descripción no proporcionada",
+        "img": "https://mundodinamo.cl/wp-content/uploads/2022/03/cover-01-460x322-1.jpg"
+      }
+    ]
+  }
+  
