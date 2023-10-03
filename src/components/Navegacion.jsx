@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import { NavLink } from "react-router-dom";
-import "./css/navegacion.css";
+import './css/navegador.css'
 
 export default function Navegacion() {
   const setActiveClass = ({ isActive }) => (isActive ? "activo" : "inactivo");
