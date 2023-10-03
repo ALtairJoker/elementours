@@ -1,6 +1,5 @@
 import React from 'react'
 import './css/inicio.css'
-import Carrusel from '../components/Carrusel'
 
 function inicio() {
   return (
